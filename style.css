@@ -1,0 +1,6 @@
+.bg-info{
+    background-color: rgb(233, 212, 212) !important;
+}
+.btn{
+    background-image: linear-gradient(orange,tomato);
+}
